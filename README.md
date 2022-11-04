@@ -11,7 +11,7 @@ U can disable the Depth of field by deleting "SetUseHiDof()" in Main.lua:877
 My Mapping/dev discord https://discord.gg/8SUJN7JXk2
 
 ## Screenshots
-![image]([https://i.imgur.com/eAMST1Y.jpeg)]
+![image]([https://i.imgur.com/eAMST1Y)]
 
 # License
 
